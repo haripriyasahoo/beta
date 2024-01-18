@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Haripriya Sahoo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beta&label=Profile%20views&color=0e75b6&style=flat" alt="beta" /> </p>
 
-- 🔭 I’m currently working as a **PhD student**
+- 🔭 I am currently working as a **PhD student**
 
 - 📫 How to reach me **haripriya.beta@gmail.com**
 <img align="right" alt="" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
